@@ -22,7 +22,7 @@ Backend pool
 |
 |
 |
-Health probes
+Health probes(tcp, http, https)
 |
 |
 |
