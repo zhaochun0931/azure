@@ -1,0 +1,1 @@
+Azure Database for MySQL flexible server is a relational database service in the Microsoft cloud based on the MySQL Community Edition
