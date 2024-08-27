@@ -27,3 +27,10 @@ Health probes(tcp, http, https)
 |
 |
 Load Balancer rules
+
+
+
+
+
+
+Load Balancer health probes originate from the IP address 168.63.129.16 and must not be blocked for probes to mark your instance as up.
