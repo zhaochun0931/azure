@@ -11,4 +11,4 @@ Azure Database for MySQL powered by the MySQL community edition is available in 
 --- Single Server
 
 
-
+Azure Database for MySQL single server is on the retirement path. We strongly recommend that you upgrade to Azure Database for MySQL flexible server. 
