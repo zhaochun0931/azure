@@ -1,1 +1,5 @@
 Azure Database for MariaDB is a relational database service based on the open-source MariaDB Server engine. 
+
+
+Azure Database for MariaDB is on the retirement path. We strongly recommend that you migrate to Azure Database for MySQL.
+
