@@ -1,0 +1,1 @@
+Azure Database for MariaDB is a relational database service based on the open-source MariaDB Server engine. 
